@@ -1,0 +1,19 @@
+# ignored directories 
+
+images/ 
+data/
+paper/
+canvas_data/
+private/
+
+# files that contain sensitive data
+# account ids
+db/**/course_meta_table.sql 
+db/queries.py
+union_submissions.sql
+# used to import sensitive keys
+
+
+# misc
+.vscode
+__pycache__
