@@ -11,7 +11,8 @@ private/
 db/**/course_meta_table.sql 
 db/queries.py
 union_submissions.sql
-# used to import sensitive keys
+
+hyperparameter_plot.py
 
 
 # misc
