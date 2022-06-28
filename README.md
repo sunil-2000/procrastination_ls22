@@ -1,4 +1,6 @@
-# canvas_research
+# canvas_research (code for Large Scale Student Data Reveal Sociodemographic Gaps in Procrastination Behavior)
+
+Instructions for accessing server and setting up conda environment
 ssh into server (if need to query db)
 
 0. To get started:
